@@ -10,6 +10,7 @@ font-family: 'Open Sans Condensed', sans-serif */
   --mainWhite: #f3f3f3;
   --mainDark: #232528;
   --mainYellow: #ffa400;
+  --mainGrey: #D3D3D3;
 }
 body{
   font-family: 'Lora', serif !important;
