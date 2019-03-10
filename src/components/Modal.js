@@ -28,7 +28,7 @@ export default class Modal extends Component {
                                     <h5 className="text-muted">price: $ {price}</h5>
                                     <Link to="/">
                                         <ButtonContainer onClick={()=>closeModal()}>
-                                            store
+                                           Continue Shopping 
                                         </ButtonContainer>
                                     </Link>
                                     <Link to="/cart">
@@ -59,7 +59,6 @@ background: rgba(0,0,0,0.3);
 display: flex;
 align-items: center;
 justify-content: center;
-
 #modal{
     background: var(--mainWhite);
 }
